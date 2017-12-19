@@ -1,7 +1,7 @@
-# Paytm_Magento_v2.x_Kit
+# Paytm_Magento_v2.2.2_Kit
 
 Supported Versions
-Paytm Plugin version V1.0 Magento supported version 2.0.X onward
+Paytm Plugin version V1.0 Magento supported version 2.2.2 onward
 
 Installation and Configuration
 upload app/code/One97 (all files and folder) at you server end.
