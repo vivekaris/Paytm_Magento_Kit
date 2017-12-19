@@ -1,6 +1,6 @@
 Supported Versions
 
-Paytm Plugin version V1.0 Magento supported version 2.0.X onward
+Paytm Plugin version V1.0 Magento supported version 2.2.2 onward
 
 
 
